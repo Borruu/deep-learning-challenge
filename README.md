@@ -1,4 +1,4 @@
-# deep-learning-challenge
+# Deep Learning
 ## Background
 The nonprofit foundation Alphabet Soup wants a tool that can help it select the applicants for funding with the best chance of success in their ventures. This project aims to use machine learning and neural networks to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
 
@@ -15,3 +15,5 @@ From Alphabet Soup’s business team, you have received a CSV containing more th
 - SPECIAL_CONSIDERATIONS—Special considerations for application
 - ASK_AMT—Funding amount requested
 - IS_SUCCESSFUL—Was the money used effectively
+### References
+IRS. Tax Exempt Organization Search Bulk Data Downloads. https://www.irs.gov/

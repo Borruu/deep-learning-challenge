@@ -15,5 +15,16 @@ From Alphabet Soup’s business team, you have received a CSV containing more th
 - SPECIAL_CONSIDERATIONS—Special considerations for application
 - ASK_AMT—Funding amount requested
 - IS_SUCCESSFUL—Was the money used effectively
-### References
+## Directory
+**Starter_code** notebook preprocesses the data from charity_data.csv and creates five neural network models which aim to classify applicants as successful or unsuccessful.
+
+**AlphabetSoupCharity_Optimisation** notebook preprocesses the data slightly further and tests the same five model with this data.
+
+**Mod21_Report** summarises the Project steps and outcomes.
+
+**AlphabetSoupCharity.h5** is the first model created. All other models have their weights saved only in the corresponding folders (model01, model01pp, etc.).
+
+**Resources folder** contains the original data source _charity_data.csv_ and a preprocessed version _pp_charity_data.csv_ .
+
+## References
 IRS. Tax Exempt Organization Search Bulk Data Downloads. https://www.irs.gov/
